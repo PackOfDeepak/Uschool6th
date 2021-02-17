@@ -1,0 +1,43 @@
+h1 {
+    
+
+    font-family: cursive;
+    position:ablsolute;
+    margin-top:100px;
+}
+body {
+    background-color: springgreen;
+}
+.name {
+    font-size: 30px;
+    position: absolute;
+    top: 10px;
+    left:20px;
+   }
+   #home {
+    position: absolute;;
+    top:10px;
+    right:350px;
+   }
+   #work {
+    position: absolute;;
+    top:10px;
+    right:120px;
+   }
+   #about {
+    position: absolute;
+    top:10px;
+    right:250px;
+   }
+   #list {
+    position: absolute;
+    top:10px;
+    right:50px;
+   }
+   .header {
+       background-color: deepskyblue;
+       display:flex;
+       justify-content: space-between;
+       flex-direction: column;
+    
+    }
